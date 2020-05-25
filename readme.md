@@ -1,4 +1,4 @@
-﻿Multiple Manifolds Metric Learning with Application to Image Set Classification (https://github.com/Kai-Xuan/MMML) 
+﻿Multiple Manifolds Metric Learning with Application to Image Set Classification (https://github.com/Kai-Xuan/MMML)    
 Written by Rui Wang (https://github.com/GitWR) 
 
 Please cite the following paper (more theoretical and technical details) if your are using this code:
